@@ -190,16 +190,6 @@ A production-grade serverless chatbot leveraging AWS services and Hugging Face N
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=satyaritesh&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -208,7 +198,7 @@ A production-grade serverless chatbot leveraging AWS services and Hugging Face N
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-naidu)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyaritesh@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyariteshb@email.com)
 
 </div>
 

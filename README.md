@@ -7,8 +7,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Cloud+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=satyaritesh&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/satyaritesh?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/satyaritesh)
+
+<br/>
+
+<a href="https://github.com/satyaritesh">
+  <img src="https://img.shields.io/github/followers/satyaritesh?style=for-the-badge&logo=github&color=0e75b6" alt="GitHub followers" />
+</a>
 
 </div>
 
